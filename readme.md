@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Sriram Kumar
-#### Passionate Data Analyst delving into Data Engineering & AI
+#### Passionate Data Analyst budding Data Engineering and AI
 - Data professional with expertise in Analytics & Big Data.
 - Demonstrated success in deriving strategic insights from extensive datasets.
 - Committed to leveraging cutting-edge tools to drive data-driven decision-making.
 
-Skills: Python / SQL / Spark / Databricks / Mage / DWH - BigQuery & Snowflake
+Skills: Python / SQL / Spark / Databricks / Amazon Web Services (AWS), Google Cloud Platform (GCP)
 
 
 
