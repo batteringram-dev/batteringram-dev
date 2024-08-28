@@ -4,7 +4,7 @@
 - Demonstrated success in deriving strategic insights from extensive datasets.
 - Committed to leveraging cutting-edge tools to drive data-driven decision-making.
 
-Skills: Python / SQL / Spark / Databricks / Amazon Web Services (AWS), Google Cloud Platform (GCP)
+Skills: Python / SQL / Apache Spark / MongoDB / Databricks / Amazon Web Services (AWS) / Google Cloud Platform (GCP)
 
 
 
