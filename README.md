@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there! 👋
+
+I'm Sriram, and I'm a Data Engineer building scalable data systems and AI-powered applications, with a focus on distributed systems, data infrastructure and applied AI.
+
+- 🔭 I’m currently working on building conversational AI systems that bridge enterprise data and natural language using RAG, ontologies, and semantic layers.
+- 🌱 I recently built Mini Expectations, a lightweight Python library for running data quality checks and validating datasets on the fly. Check it out [here](https://libraries.io/pypi/mini-expectations).
+- 👯 I’m looking to collaborate on open-source projects and building interesting things together.
 
 <!--
 **batteringram-dev/batteringram-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
